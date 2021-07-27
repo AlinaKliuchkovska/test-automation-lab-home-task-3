@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "yes" ?>
+<rozetkaFilter>
+    <group>Ноутбуки</group>
+    <sortingType>От дорогих к дешевым</sortingType>
+    <brandName>Acer</brandName>
+    <itemsNumber>1</itemsNumber>
+    <maxSum>500000</maxSum>
+</rozetkaFilter>
